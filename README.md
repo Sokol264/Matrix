@@ -1,2 +1,3 @@
 # Matrix
-Realization matrix structure and operation on them
+![Matrix](/images/matrix.jpg)
+### Реализация статической библиотеки для работы с матрицами.
